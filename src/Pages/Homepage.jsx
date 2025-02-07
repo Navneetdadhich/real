@@ -8,7 +8,7 @@ import TaR from '../components/TaR';
 import RealestateAgents from '../components/RealestateAgents';
 import Testimonial from '../components/Testimonials';
 import Contact from '../components/Contact';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 
 
 const Homepage = () => {
