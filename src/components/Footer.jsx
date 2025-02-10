@@ -6,11 +6,11 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const footer = () => {
   return (
-    <div className='flex sm:flex-row flex-col bg-slate-900 w-full sm:h-[50vh] sm:gap-40 gap-15 text-white sm:py-20 p-10'>
+    <div className='flex sm:flex-row flex-col bg-slate-900 w-full sm:h-[50vh] sm:gap-40 gap-15 text-amber-50 sm:py-20 p-10'>
         <div>
             <div className='flex flex-col  h-[4rem] sm:px-10'>
                 <h1 className='font-bold'>I N T E N S E</h1>
-                <p className='text-xs text-orange-300'>Real Estate</p>
+                <p className='text-xs text-violet-400'>Real Estate</p>
             </div>
 
             <div className='flex gap-2 text-xl'>
@@ -38,11 +38,11 @@ const footer = () => {
             <div className='flex sm:w-[400px] w-[200px]'>
                 <div className='flex justify-center items-center'>
 
-                <IoMail className='sm:w-[50px] w-[20px] mr-3 text-3xl text-white'/>
+                <IoMail className='sm:w-[50px] w-[20px] mr-3 text-3xl text-amber-50'/>
                 </div>
-                <input type="text" name="" id="" placeholder='Type your E-Mail' className='w-[250px] bg-white text-gray-700 text-xs sm:text-sm p-2'/>
+                <input type="text" name="" id="" placeholder='Type your E-Mail' className='w-[250px] bg-amber-50 text-gray-700 text-xs sm:text-sm p-2'/>
                 <button className='w-[100px] h-[40px]
-                bg-orange-400 text-xs sm:text-sm sm:p-2 cursor-pointer p-2'>subscribe</button>
+                bg-violet-400 font-semibold text-xs sm:text-sm sm:p-2 cursor-pointer p-2'>subscribe</button>
             </div>
         </div>
 

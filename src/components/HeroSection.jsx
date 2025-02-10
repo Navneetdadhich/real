@@ -42,7 +42,7 @@ const HeroSection = () => {
             </div>
             <div className='flex sm:w-[70%] mx-auto flex gap-2 py-2 items-center justify-center'>
                 <input type="text" className='w-[70%] bg-white text-xs sm:text-sm p-3 rounded-xs outline-none'  placeholder='Search by city or address ' />
-                <button className='w-[30%] sm:w-[20%] bg-orange-400 rounded-xs text-xs sm:text-sm p-3 outline-none font-bold text-white uppercase cursor-pointer' onClick={() => alert("hello")} >Search</button>
+                <button className='w-[30%] sm:w-[20%] bg-violet-400 rounded-xs text-xs sm:text-sm p-3 outline-none font-bold text-white uppercase cursor-pointer' onClick={() => alert("hello")} >Search</button>
             </div>
         </div>
 

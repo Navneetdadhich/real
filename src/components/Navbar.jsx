@@ -30,7 +30,7 @@ const Navbar = () => {
         </ul>
     </div>
     <div className='flex justify-between  items-center sm:m-8 m-2'>
-        <span className='font-bold sm:text-xl text-sm'> I N T E N S E <span className='font-bold text-xs text-yellow-500 '>real-estate</span> </span>
+        <span className='font-bold sm:text-xl text-sm'> I N T E N S E <span className='font-bold text-xs text-violet-500 '>real-estate</span> </span>
 
         <GiHamburgerMenu className='text-2xl sm:hidden' onClick={() => setOpen(!open)} />
 

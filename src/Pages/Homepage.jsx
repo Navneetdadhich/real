@@ -14,6 +14,8 @@ import Footer from '../components/Footer';
 const Homepage = () => {
   return (
     <>
+    <div className='bg-amber-50'>
+
     <Navbar/>
     <HeroSection/>
     <Category/>
@@ -23,6 +25,7 @@ const Homepage = () => {
     <Testimonial/>
     <Contact/>
     <Footer/>
+    </div>
     </>
   )
 }

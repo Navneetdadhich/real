@@ -44,7 +44,7 @@ const RealestateAgents = () => {
 
         <div className='flex justify-center items-center text-sm sm:text-lg font-bold text-gray-700 my-4 sm:my-10'>
 
-    <button className='bg-orange-300 p-4 rounded-sm cursor-pointer mb-2 uppercase'>View All Agents</button>
+    <button className='bg-violet-400 text-amber-50 p-4 rounded-sm cursor-pointer mb-2 uppercase'>View All Agents</button>
         </div>
     </div>
   )

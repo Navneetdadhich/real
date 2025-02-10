@@ -91,7 +91,7 @@ const RecentManage = () => {
     </div>
     <div className='flex justify-center items-center text-sm sm:text-lg font-bold text-gray-700 my-8 sm:my-12'>
 
-    <button className='bg-orange-300 p-4 rounded-sm cursor-pointer mb-8 uppercase'>View All Properties</button>
+    <button className='bg-violet-400 p-4 rounded-sm cursor-pointer mb-8 uppercase text-amber-50'>View All Properties</button>
         </div>
     </div>
     </>
